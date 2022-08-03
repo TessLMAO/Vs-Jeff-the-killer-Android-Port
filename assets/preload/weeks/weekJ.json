@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"SDAMOS",
+			"jeff",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Sleeping Tragedies",
+			"jeff",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Endless Sleep",
+			"jeff",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"jeff",
+		"bf",
+		"gf"
+	],
+	"storyName": "Go to sleep",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
