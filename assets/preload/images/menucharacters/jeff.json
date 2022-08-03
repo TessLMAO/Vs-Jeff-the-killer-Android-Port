@@ -1,0 +1,11 @@
+{
+	"idle_anim": "jeff",
+	"image": "jeff",
+	"position": [
+		170,
+		60
+	],
+	"flipX": false,
+	"scale": 0.65,
+	"confirm_anim": "M Dad Idle"
+}
